@@ -11,7 +11,8 @@
 ```QBCore``` ```QRCore```
 
 ## My Github Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Friskky1&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
+<p align="left">
+ <a href=https://github.com/Friskky1><img width="700" src=https://github-readme-stats.vercel.app/api?username=Friskky1&count_private=true&show_icons=true&title_color=002b68text_color=ffffff&icon_color=002b68&hide_border=true&bg_color=000000&layout=compact&hide_title=false&hide_rank=false><a>
 
 ## Languages
 <div>
