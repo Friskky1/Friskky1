@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=A70000&width=435&lines=Welcome+To+My+Github!)](https://git.io/typing-svg)
 
-
-## :man_technologist: About Me
-
-
-
 ## Profile Viewers
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Friskky1" alt="Friskky1" /> </p>
@@ -22,6 +17,9 @@
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
 </div>
+
+## :mailbox: How to reach me: 
+[![Discord Badge](https://img.shields.io/discord/869166393470357535?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord)](Friskky#0001)
 
 ```SunriseRP```
  <div align="left">
