@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Friskky1" alt="Friskky1" /> </p>
 
 ## I’m Currently Working On
-```FiveM``` ```RedM``` 
+```FiveM``` and ```RedM``` 
 
 ## Frameworks
 ```QBCore``` ```QRCore```
