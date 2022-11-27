@@ -15,6 +15,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Friskky1&theme=dark&hide_border=true&background=DD2727)](https://git.io/streak-stats)
 
+## Languages
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
+</div>
+
 ```SunriseRP```
  <div align="left">
   <p><a href="https://discord.gg/sunriserp1">
