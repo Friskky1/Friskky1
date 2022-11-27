@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Friskky1" alt="Friskky1" /> </p>
 
+```What Im Listening Right Now```
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317vnubuomi6ussamzqfeb5wcjfi&cover_image=true&theme=default&bar_color=0029a3&bar_color_cover=false)
+
 ## I’m Currently Working On
 ```FiveM``` and ```RedM``` 
 
@@ -14,10 +18,12 @@
 <p align="left">
  <a href=https://github.com/Friskky1><img width="700" src=https://github-readme-stats.vercel.app/api?username=Friskky1&count_private=true&show_icons=true&title_color=002b68text_color=ffffff&icon_color=002b68&hide_border=true&bg_color=000000&layout=compact&hide_title=false&hide_rank=false><a>
 
-## Languages
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
-</div>
+## Most Used Languages/Tools
+-	Languages
+```Lua```
+	 
+- Tools
+```VisualStudioCode``` ```HeidiSQL``` ```xammp```
 
 ## :mailbox: How to reach me: 
 [![Discord Badge](https://img.shields.io/discord/869166393470357535?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord)](Friskky#0001)
