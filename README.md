@@ -28,7 +28,7 @@
 ```VisualStudioCode``` ```HeidiSQL``` ```xammp```
 
 ## :mailbox: How to reach me: 
-[![Discord Badge](Friskky#0001)
+```Discord:```Friskky#0001
 
 ## My Roleplay Server SunriseRP
  <div align="left">
