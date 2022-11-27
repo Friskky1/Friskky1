@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Friskky1" alt="Friskky1" /> </p>
 
-```What Im Listening Right Now```
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317vnubuomi6ussamzqfeb5wcjfi&cover_image=true&theme=default&bar_color=0029a3&bar_color_cover=false)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317vnubuomi6ussamzqfeb5wcjfi&cover_image=true&theme=default&bar_color=0029a3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317vnubuomi6ussamzqfeb5wcjfi&redirect=true)
 
 ## I’m Currently Working On
 ```FiveM``` and ```RedM``` 
