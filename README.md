@@ -1,17 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=A70000&width=435&lines=Welcome+To+My+Github!)](https://git.io/typing-svg)
 
 
+### :man_technologist: About Me
+
+
 ```Profile Viewers```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Friskky1" alt="Friskky1" /> </p>
 
 ## I’m Currently Working On
-
-
 ```FiveM``` ```RedM``` 
 
 ## Frameworks
-```qbcore``` ```QRCore```
+```QBCore``` ```QRCore```
 
 ## My Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Friskky1&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
