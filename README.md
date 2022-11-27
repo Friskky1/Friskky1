@@ -1,10 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=A70000&width=435&lines=Welcome+To+My+Github!)](https://git.io/typing-svg)
 
-## Profile Viewers
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
+
+## Profile Viewers
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Friskky1" alt="Friskky1" /> </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317vnubuomi6ussamzqfeb5wcjfi&cover_image=true&theme=default&bar_color=0029a3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317vnubuomi6ussamzqfeb5wcjfi&redirect=true)
 
 ## I’m Currently Working On
 ```FiveM``` and ```RedM``` 
