@@ -13,7 +13,7 @@
 ## Frameworks
 ```qbcore```
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Friskky1&background=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Friskky1&theme=dark&hide_border=true&background=DD2727)](https://git.io/streak-stats)
 
 ```SunriseRP```
  <div align="left">
