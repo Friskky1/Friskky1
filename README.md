@@ -13,7 +13,7 @@
 ## Frameworks
 ```qbcore```
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Friskky1)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Friskky1&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
 
 ## Languages
 <div>
