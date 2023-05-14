@@ -12,7 +12,7 @@
 ```Discord Status```
 
 <a href="https://discord.com/users/904390081798881294">
-<img height="100px" src="[https://discord.c99.nl/widget/theme-4/904390081798881294.png](https://discord.c99.nl/widget/theme-2/904390081798881294.png)" />
+<img height="100px" src="https://discord.c99.nl/widget/theme-4/904390081798881294.png" />
 </a>
 
 
