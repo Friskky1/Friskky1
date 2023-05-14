@@ -14,7 +14,7 @@
 ```FiveM``` and ```RedM``` 
 
 ## Frameworks
-```QBCore``` ```QRCore```
+```QB-Core``` ```QBR-Core```
 
 ## My Github Stats
 <p align="left">
