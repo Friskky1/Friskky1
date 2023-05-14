@@ -9,6 +9,12 @@
 ## Profile Viewers
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Friskky1" alt="Friskky1" /> </p>
 
+```Discord Status```
+
+<a href="https://discord.com/users/904390081798881294">
+<img height="100px" src="https://discord.c99.nl/widget/theme-4/904390081798881294.png" />
+</a>
+
 
 ## I’m Currently Working On
 ```FiveM``` and ```RedM``` 
