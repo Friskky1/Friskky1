@@ -20,7 +20,7 @@
 ```FiveM``` and ```RedM``` 
 
 ## Frameworks
-```QB-Core``` ```QBR-Core```
+```QB-Core```
 
 ## My Github Stats
 <p align="left">
@@ -34,4 +34,4 @@
 ```VisualStudioCode``` ```HeidiSQL``` ```xammp```
 
 ## :mailbox: How to reach me: 
-```Discord:``` Friskky#0001
+```Discord:``` Friskky
