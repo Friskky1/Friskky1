@@ -20,7 +20,7 @@
 ```FiveM``` and ```RedM``` 
 
 ## Frameworks
-```QB-Core```
+```QBCore```
 
 ## My Github Stats
 <p align="left">
